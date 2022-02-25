@@ -1,0 +1,270 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The account of the Popes procession at Aberdene the 11th. of January, 1689. which was delivered to the new elected magistrats and council thereof, by the students of Marishal-Colledge. With the students letter to the saids magistrats thereanent.</title>
+            <author>Reid, Robert, fl. 1689.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58409</idno>
+            <idno type="STC">Wing R765</idno>
+            <idno type="STC">ESTC R220720</idno>
+            <idno type="EEBO-CITATION">99832112</idno>
+            <idno type="PROQUEST">99832112</idno>
+            <idno type="VID">36583</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58409)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36583)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2056:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The account of the Popes procession at Aberdene the 11th. of January, 1689. which was delivered to the new elected magistrats and council thereof, by the students of Marishal-Colledge. With the students letter to the saids magistrats thereanent.</title>
+                  <author>Reid, Robert, fl. 1689.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>J. Forbes],</publisher>
+                  <pubPlace>[Aberdeen :</pubPlace>
+                  <date>Printed in the year 1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication and publisher from Wing.</note>
+                  <note>This is a 19th century reprint.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church. --  Pope (1676-1689 : Innocent XI)</term>
+               <term>Catholic Church --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36583:1" rendition="simple:additions"/>
+            <p>THE ACCOUNT OF THE Popes Procession AT ABERDENE, The 11<hi rend="sup">th.</hi> of <hi>January,</hi> 1689. which was delivered to the new Elected Magiſtrats and Council thereof, by the Students of <hi>Marishal-Colledge.</hi>
+            </p>
+            <p>WITH The Students Letter to the ſaids Magiſtrats thereanent.</p>
+            <p>Printed in the Year 1689.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:36583:2"/>
+            <head>To the Right Honourable the Provoſt, Baillies, and new Elected Council of <hi>Aberdene.</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>AS nothing can be more deſtructive to any City or Incorpora<g ref="char:EOLhyphen"/>tion, than the having of perſons in publick Truſt, who mind not the publick Intereſt of the Society; ſo it is certainly the greateſt Happineſs they can enjoy, to be govern'd by thoſe who prefer the public Good to their own private Concern, and their Religion to any State-Intereſt or Advantage. That the firſt hath been in part this Cities Fate theſe ſeveral years bygone, is ſo well known, that he who runs may read it. But ſince now the Storm begins to Calm, and the antient Liberties and Fundamental Priviledges of this City, begin to receive their wonted luſtre, and ſuch Governours ſet to the Helm of Affairs, as we hope will never Impare the publick Good, or give the World occaſion to ſay, that ever they Forfault their wonted Character of <hi>Religion, Loyalty,</hi> and <hi>Bon accord.</hi> And ſince all good Citizens (now in the entry of your Government) are giving all the Expreſſions of Joy in their Power upon this Exigent, we judge our ſelves bound to throw in our Mite, knowing you to be Men, not only well principl'd in the true <hi>Proteſtant Religion,</hi> but (as we our ſelves) are Abhorrers of all Popiſh Superſtitions and Deſigns. Have therefore reſolved to add to the Solemnity of this day of your Election, by carrying his <hi>Holineſs</hi> in Proceſſion through<g ref="char:EOLhyphen"/>out this City in the greateſt Splendor, where in end he will meet with a fatal Doom. And leſt any ill principl'd or malicious per<g ref="char:EOLhyphen"/>ſons ſhould repreſent us or our Actions as Tumultuary, we have thought fit to give you aſſurance there is no ſuch Deſigns, neither intend we to injure the Perſons or Goods of any. And to evidence our Ingenuity in this, we ſend you herewith the manner of the Proceſſion, Indictment, and Sentence of his <hi>Holineſs,</hi> with all its Circumſtances and Solemnities; which if ye will countenance with your preſence, will be taken very kindly. So wiſhing Proſperity and Safety to all the Maintainers of the <hi>True Proteſtant Religion,</hi> the Preſervation of <hi>His Sacred Majeſty,</hi> the Flouriſhing of our
+<pb n="3" facs="tcp:36583:2"/>Noble Patron and Colledge, the happy and peaceable Government of you as Magiſtrats, and the wonted Unity and Friendſhip among all the true Citizens of <hi>Bon-accord.</hi> We are in all Sincerity,</p>
+            <closer>
+               <salute>Right Honourable,</salute> 
+               <signed>Your Honours moſt humble Servants, R. R. and A. I.</signed>
+               <dateline>
+                  <hi>Mariſhals</hi>-Colledge <date>
+                     <hi>11</hi> Jan. <hi>1689.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <head>A true Account of His Holineſs Proceſſion at <hi>Aberdene, January 11. 1689.</hi> Which was ſuppoſed to have been performed by His Holineſs in the greateſt Splendor, having come on purpoſe to Congratulat the good Succeſs the <hi>Roman-Catholicks</hi> had in this Kingdom, &amp; more particularly in <hi>Aberdene:</hi> In order to which His Holineſs being Seated on a Chair of State with His Crown on His Head, His Keys on His Arm, and Clothed with Scarlet Robes Lined with Ermine; Began His Proceſſion from the Col<g ref="char:EOLhyphen"/>ledge-Gate, about four a-Clock in the Afternoon, and was ac<g ref="char:EOLhyphen"/>companied as follows.</head>
+            <p>FIrſt Marched a Company of Men carrying Links, ſix a-breaſt. Next Marched the Janitor of the Colledge, carrying the Col<g ref="char:EOLhyphen"/>ledge Mace before ſix Judges in Scarlet Robes.</p>
+            <p>Next Marched four Whiſlers Sounding.</p>
+            <p>Then four Prieſts, four Jeſuits, four Popiſh Biſhops, four Car<g ref="char:EOLhyphen"/>dinals, all in their Robes, at a competent diſtance each from others, betwixt a Lane of burning Flambo's on each ſide.</p>
+            <p>Then followed a Jeſuite in Embroidered Robes, carrying a great Croſs.</p>
+            <p>Laſt of all came his Holineſs, carried on a Magnificent Chair of State, with his Privy Counſellour the Devil ſometime appearing at his back, having a great number of burning Tapers about him. In this manner he is carried thorow all the Streets of the City, diſtribu<g ref="char:EOLhyphen"/>ting Pardons and Indulgences <hi>gratis:</hi> And being come to the High-Street, near the Croſs, he placeth himſelf on a Theatre Erected on purpoſe; where after ſeveral Adreſſes made to his Holineſs, one of his Cardinals made the following Speech.</p>
+            <pb n="4" facs="tcp:36583:3"/>
+            <sp>
+               <speaker>Car.</speaker>
+               <l>MOſt Holy Father, of all the Earth the Prince,</l>
+               <l>Who keeps the Keys of Hell, and Heav'n, e're ſince</l>
+               <l>St. <hi>Peters</hi> days: You God of gods on Earth,</l>
+               <l>Who can Bind, Looſe, Save, Puniſh, at one Breath,</l>
+               <l>All Souls of Perſons: Condemn both Kings and Crowns,</l>
+               <l>Who can make Souldiers Coats of Card'nals Gowns.</l>
+               <l>What Joy is here! To ſee that You ſhould Grace</l>
+               <l>Us with Your Preſence, in ſo Remote a Place:</l>
+               <l>We therefore to you Preſents offer now,</l>
+               <l>For all the World to <hi>Baals</hi> gods muſt bow.</l>
+               <l>There's none dare Queſtion Your Prerogative,</l>
+               <l>Moſt Holy Father, then for ever live.</l>
+               <l>We'll make all owne Infallibility,</l>
+               <l>Beſide, wee'll add you have Ubiquity;</l>
+               <l>You're ſtill at <hi>Rome,</hi> tho' ye have grac'd this day</l>
+               <l>With your own preſence: Hail Father, Hail for ay.</l>
+            </sp>
+            <sp>
+               <speaker>Pop.</speaker>
+               <l>Good Cardinal, we know this is the time</l>
+               <l>For to advance our Int'reſt, let's Combine,</l>
+               <l>Spare ye no Arts our Luſtre to ſupport;</l>
+               <l>Go ſearch all Mines t'enrich our ſhining Court.</l>
+               <l>You may ſell Heav'n, of Religion make a Trade,</l>
+               <l>Indulgences in plenty can be had.</l>
+            </sp>
+            <sp>
+               <speaker>Car.</speaker>
+               <l>Moſt Holy Father, while Prieſt-craft bears the ſway,</l>
+               <l>We'll make Heav'ns Gate a Lock to your own Key:</l>
+               <l>'Gainſt Hereticks our Swords we'll quickly draw,</l>
+               <l>And will perform this Your ſo Sacred Law:</l>
+               <l>Hundreds of Thouſands we will make to ſhare</l>
+               <l>On common Doom; no Sex nor Age we'll ſpare,</l>
+               <l>No kneeling-beauties Tears, no Virgins Cryes,</l>
+               <l>No Infants ſmiles, none ſpar'd with us, all dyes.</l>
+            </sp>
+            <p>About the time that his Holineſs and the Cardinal is at this Conference, Enters Father <hi>Peters</hi> in great haſte, who delivers his Holineſs a Letter; upon Reading whereof his Holineſs falls a-Swown, and the Devil appears at his back to help him; upon ſight of all which the Crowd cry,</p>
+            <pb n="5" facs="tcp:36583:3"/>
+            <lg>
+               <l>Now <hi>Babylon</hi> falls, come, come, let us pull down</l>
+               <l>That Scarlet Whore, and break the Triple Crown:</l>
+               <l>We'll Countermine her Plots, we will Combine,</l>
+               <l>And ever pray fo'Religion and our King.</l>
+            </lg>
+            <p>His Holineſs awakes, and being poſſeſt with an extraordinary Collick, (the Devil all the while holding his head) Vomits Plots, Daggers, Indulgences, and the Blood of Martyrs, and cryes,</p>
+            <sp>
+               <speaker>Pop.</speaker>
+               <l>Oh! We're undone. Oh! Mr. Devil, pray</l>
+               <l>Help us with your advice, without delay.</l>
+            </sp>
+            <sp>
+               <speaker>Dev.</speaker>
+               <l>Hells Plots, are ended, <hi>Iſraels</hi> GOD combines,</l>
+               <l>To cruſh our Counſels, to break our Deſigns.</l>
+            </sp>
+            <sp>
+               <speaker>Pop.</speaker>
+               <l>Oh! Mr. Devil, pray then take me hence</l>
+               <l>Unto your Court, ſince ye'll find no defence.</l>
+            </sp>
+            <sp>
+               <speaker>Dev.</speaker>
+               <l>Good Mr. Pope, my Court cannot contain</l>
+               <l>Your Holineſs, except ye would go in</l>
+               <l>Into my Kitchen; for my Court is throng</l>
+               <l>With Popes, and Cardinals, who will admit of none</l>
+               <l>But Nuns amongſt them, where all the World may ſee,</l>
+               <l>That they, with them, made pretty Companie.</l>
+               <l>For while in <hi>Rome</hi> ſome Nephews got ſome Nieces,</l>
+               <l>They now get Sons and Daughters in their places.</l>
+               <l>But, Mr. Pope, ſince Prieſt-craft muſt be gone,</l>
+               <l>And ſince there's few that will your caſe bemoan;</l>
+               <l>To <hi>France</hi> I'le ſend you, where perhaps ye may</l>
+               <l>Be made Groom-of-the-Stool to's Majeſty.</l>
+            </sp>
+            <sp>
+               <speaker>Pop.</speaker>
+               <l>Oh! Mr. Devil, How can you thus torment</l>
+               <l>Your wonted Friend? Oh! Will ye not prevent</l>
+               <l>This fatal Doom? How can I go and Dight</l>
+               <l>A Princes Breech? Who oft-times in the ſight</l>
+               <l>Of all the World, have made great Monarchs go,</l>
+               <l>And lay aſide their Crowns, to kiſs my Toe.</l>
+               <l>Pray then, Sir Devil, will ye but permit,</l>
+               <l>If not to Court, unto the darkeſt Pit;</l>
+               <pb n="6" facs="tcp:36583:4"/>
+               <l>Rather than ſend me to the King of <hi>France,</hi>
+               </l>
+               <l>To wipe his Breech. Oh, moſt ſad miſchance!</l>
+            </sp>
+            <sp>
+               <speaker>Dev.</speaker>
+               <l>To Hell then go, in Chains I will you bind;</l>
+               <l>But Jeſuits a while muſt ſtay behind;</l>
+               <l>That while you'r on your Journey unto Hell,</l>
+               <l>Theſe Lads may go and Ring the <hi>Trin'ty-Bell.</hi>
+               </l>
+            </sp>
+            <p>At the end of the foreſaid Conference, the Devil endeavoured to throw His Holyneſs in the Fire, but was hindered by Order of a High Court of Juſtice, who having heard of His Holyneſs's Pro<g ref="char:EOLhyphen"/>ceſſion, reſolved to give him a fair Tryal by Law: And accord<g ref="char:EOLhyphen"/>ingly having Erected a Bench, and the Judges having taken their Seats in their Robes, cauſed bring in His Holyneſs, attended by his good Friend Mr. Devil, (all the reſt of his friends deſerting him) and ordered the Clerk to read the following Inditement.</p>
+            <p>
+               <hi>Innocent</hi> the eleventh Univerſal Biſhop and Pope of <hi>Rome,</hi> pre<g ref="char:EOLhyphen"/>tended Succeſſor to St. <hi>Peter,</hi> thou art Indicted and Accuſed of High Treaſon againſt the moſt High and Eternal God, as an Ene<g ref="char:EOLhyphen"/>my to Religion, Monarchy and Government, and an open and avowed Murderer of Mankind. In ſo far as thou haſt taken upon thee to Uſurpe the Titles and Prerogatives only due to the Hea<g ref="char:EOLhyphen"/>venly Father, haſt moſt blaſphemouſly Erected to thy ſelf unknown gods, and in contempt of thy Maker haſt Worſhipped and Adored them; haſt Uſurped the Power of Dethroning Kings and Diſpoſ<g ref="char:EOLhyphen"/>ing of Kingdoms: Haſt upon pretence of Religion committed Maſſacres and Murders, and Canoniz'd the Actors. And albeit thou thinks it damnable for Prieſts to Marry, yet thou proclaims it Venial for them to commit Fornications and Adulteries before and after Confeſſion. Thou owns it meritorious for perſons to Cheat and Lie for advancing thy Intereſt, and Emitteſt Indulgen<g ref="char:EOLhyphen"/>ces to palliat theſe Faults. And therefore, Thou art guilty of the foreſaid horrid and execrable Crimes, which being found to be of verity, Thou ought and ſhould Forfault thy Life, Liberty and Goods, and ſuffer the Pain of Death, in ſuch Form and Manner as this High Court of Judicature ſhall think ſit.</p>
+            <p>After Reading of the foreſaid Indictment, the Lord Chief Juſtice
+<pb n="7" facs="tcp:36583:4"/>Interrogats his <hi>Holiness</hi> if he pleaded <hi>Guilty or not Guilty,</hi> to which his <hi>Holineſs</hi> (being conſcious of the Guilt of what was laid to his Charge) made no Anſwer; Thereafter the Court adduced ſufficient Proofs by the Canons of the Church, Bulls, Pardons, and Indulgences lying in Proceſs, they found him Guilty of the Crimes contained in his Indictment, and therefore ordered the Clerk to read out the following Sentence.</p>
+            <p>Before Reading of which (the Lyon King at Arms, and his Brethren Heraulds, and Purſevants, being called to be preſent in their Robes,) the Trumpets ſounded three times; thereafter the Clerk read, and Dempſter of Court proclaimed the following Sen<g ref="char:EOLhyphen"/>tence.</p>
+            <p>
+               <hi>Innocent</hi> the eleventh Univerſal Biſhop and Pope of <hi>Rome,</hi> pre<g ref="char:EOLhyphen"/>tended Succeſſor to St. <hi>Peter;</hi> Foraſmuch as thou art found Guilty by this High Court of Juſtice, of the horrid, treaſonable, and exe<g ref="char:EOLhyphen"/>crable Crimes contained in the Indictment; Therefore, the Lord Chief Juſtice, and remanent Lords here preſent ſitting in Judg<g ref="char:EOLhyphen"/>ment, Decern and Ordain thy Body in all thy Pontificalls, to be taken immediately to the publick place of Execution, and there to be burnt to aſhes, and ordains thy Blood to be tainted, thy Honours, Reputation and Fame, to be blotted out of all Records: That neither Thou, nor thy Emiſſaries, Nuncio, Cardinals, Biſhops, Prieſts, Jeſuits, Munks, Friars, Nuns, Whores, Bawds, or Pro<g ref="char:EOLhyphen"/>teſtants diſguiſed, (tho by a Marginal Note <hi>of the True Proteſtant Religion, without Suſpicion in the contrair</hi>) be ever admitted in any Civil Society, or ever have Power to bear Charge in any Office, Dignity or Truſt within this Kingdom, or City, in any time hereafter.</p>
+            <p>To which the Dempſter of Courtadded; <hi>and this I give for Doom.</hi>
+            </p>
+            <p>After Reading of which Sentence, the Trumpets Sounded again three times; and the Lyon King at Arms, and His Brethren He<g ref="char:EOLhyphen"/>raulds and Purſevants in their Robes, having the <hi>Pope's</hi> Arms in their Hands, Repeated the Sentence, Ranverſ'd, and Teared his Coat Armorical, and threw it in his Face.</p>
+            <pb n="8" facs="tcp:36583:5"/>
+            <p>The Lord Lyon and Heraulds, after Reading of their Sentence in face of the Judicatory, March to the <hi>Croſs</hi> in their Robes, the Trumpets all the way Sounding before them; And again from the Croſs Proclaimed the former Sentence, with all its Solemni<g ref="char:EOLhyphen"/>ties; which being ended, his Holineſs was taken away from the Theatre, and the Sentence put in Execution againſt him.</p>
+            <p>During the time of his Burning, the Spectators were intertained with Fire-works, and ſome other Divertiſements.</p>
+            <p>After all was ended, the <hi>Trinity-Church-Bell</hi> (which was the only Church in <hi>Scotland</hi> taken from the Proteſtants and given to the Papiſts, wherein they actually had their Service) was Rung all the Night.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:36583:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
